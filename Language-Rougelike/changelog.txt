@@ -1,0 +1,10 @@
+#silly file for talking about changes
+#just in case stuff changes whilst someone is not online
+
+-Added maxhp stat to player and enemy, as well as battle.py for battle functionality
+- Reformatted items.txt and rpg doc.txt
+- added items to the playr
+- no one uses this :(
+- choosing an item is now a generalizable function.
+- added a question and answers text file to hold the questions 
+  for the project.

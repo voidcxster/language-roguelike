@@ -1,0 +1,13 @@
+[ITEM]: [STAT] [TURNS, IF APPLICABLE]
+//Turns will not be written if the item has permanent affects.
+
+
+Old Man's Book: +1 MAXHP
+Funny-Looking Shoes: +1 SPD
+Health Potion: +15 HP (0) 
+Tasty Steak: +2 ATK (2)
+
+STARTING ITEMS: 
+Pointy Stick: +2 ATK
+Bow and Arrow: +1 SPD
+Magic Book: +2 XP

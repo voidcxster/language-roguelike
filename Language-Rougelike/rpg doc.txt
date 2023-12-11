@@ -1,0 +1,7 @@
+don't need to be unique sans bosses 
+keep it simple stupid
+few enemies few bosses 
+speed attack hp (def)
+limit = charge over time up for attack
+bosses will be like tests
+
